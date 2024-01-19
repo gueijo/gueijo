@@ -1,6 +1,6 @@
-### OPA! Eu sou o Gueijo! XD
+# OPA! Eu sou o Gueijo! XD
 
-  ## Atualmente estudando ReactJs
+  ### Atualmente estudando ReactJs
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gueijo&show_icons=true&theme=tokyonight">
